@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/app.css"],"names":[],"mappings":"AAAA,kBACI,4CAAgD,CAChD,YACJ","file":"main.b7e01595.chunk.css","sourcesContent":[".titulo-principal {\r\n    font-family: Verdana, Geneva, Tahoma, sans-serif;\r\n    color: purple;\r\n}"]}
